@@ -1,0 +1,16 @@
+endereco- Texto
+telefone- Real
+salario- Real
+cpf- Real 
+preco- Booleana
+temperatura- Número Inteiro
+casado- Texto
+nascimento- Data
+vacinado- Texto
+preco_gasolina- Booleana
+litros_gasolina- Número inteiro
+preco_pao- Real
+total_compras- Número Inteiro
+idade- Número Inteiro
+data_contrato- Data
+nivel_escolaridade- Texto
